@@ -1,9 +1,0 @@
-git add . 
-git commit -m "Msg"
-git push
-rm -r filename
-mkdir filename
-touch filename
-vim filename
-
-
