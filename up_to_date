@@ -1,0 +1,8 @@
+touch
+vim
+git add . 
+git commit -m ""
+git push
+rm -r 
+mkdir
+
